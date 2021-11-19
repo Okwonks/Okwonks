@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on...
 - 🌱 I'm currently learning about Docker and Containers
 - 👯 I’m looking to collaborate on making/maintaining an NPM package
-- ⚡ Fun fact: I play music
+- ⚡ Fun fact: I play guitar, bass, piano and drums
 
 ### Socials and connecting:
 
