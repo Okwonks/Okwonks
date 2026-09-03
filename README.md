@@ -7,17 +7,15 @@
 
 ## 🔭 I'm currently working on...
 
-- A helpdesk app clone (something like zendesk/freshdesk)
 - Data Structures and Algorithms in JavaScript
-- A TODO app written in Go, Java, JavScript and Python
+- A Task List managing CLI tool written in Go
 - Refactoring my old projects
 
 ## 🌱 I'm currently learning about
 
 - 🐋 Docker and Containers
-- 📱 React Native (using expo)
-- Vue.js
 - Data Structures and Algorithms
+- AI Harness Engineering
 
 ## 💻 Technical Skills
 
@@ -50,14 +48,17 @@
 
 ## 📈  GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Okwonks&theme=dark)](https://github.com/Okwonks)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okwonks&layout=compact&theme=dark)](https://github.com/Okwonks)
+[![Github stats](https://github-stats-extended.vercel.app/api?username=Okwonks&theme=dark)](https://github.com/Okwonks)
+<br />
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Okwonks&layout=donut&theme=dark)](https://github.com/Okwonks)
+<br />
+<!-- [![WakaTime](https://github-stats-extended.vercel.app/api/wakatime?username=f8694287-d30e-4828-947d-5eaa7ef3c548)](https://wakatime.com/@f8694287-d30e-4828-947d-5eaa7ef3c548) -->
 
 ### Socials and connecting:
 
-[<img align="left" alt="Okwonks | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />][twitter]
-[<img align="left" alt="Okwonks | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Okwonks | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
+[<img align="left" alt="Okwonks | Twitter" width="22px" src="https://cdn.simpleicons.org/x/fafafa" />][twitter]
+<!-- [<img align="left" alt="Okwonks | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin] -->
+[<img align="left" alt="Okwonks | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 
 [twitter]: https://twitter.com/albert_oketch
 [linkedin]: https://www.linkedin.com/in/albert-oketch-b23852111
